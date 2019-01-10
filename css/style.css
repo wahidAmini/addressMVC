@@ -1,0 +1,17 @@
+header{
+    height: 100px;
+    background-color: lightpink;
+}
+.container{
+    background-color: rgb(245, 240, 240);
+}
+
+footer{
+    height: 150px;
+    background-color: gray;
+}
+
+.user_table{
+    align: center;
+    padding: 5px;
+}
